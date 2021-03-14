@@ -21,5 +21,5 @@ In my free time i like to make mods for Minecraft, and play some other games asw
 
 ### 🤖 Here are some cool stats about me: 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lucaargolo&show_icons=true&icon_color=f18e33&count_private=true&theme=dark&hide=issues,prs&line_height=30)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaargolo&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lucaargolo&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=f18e33&count_private=true&theme=dark&hide=issues,prs&line_height=30)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaargolo&bg_color=0d1117&hide_border=true&layout=compact&theme=dark)
