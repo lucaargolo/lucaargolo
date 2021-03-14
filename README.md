@@ -1,9 +1,9 @@
 ### 👋 Hi there! Welcome to my github profile!
-My name is Luca Argolo and i'm currently a Computer Science student at [UFBA](https://ufba.br/).
+My name is Luca Argolo and I'm currently a Computer Science student at [UFBA](https://ufba.br/).
 
 I'm 20 years old and my current interests are in game development and procedural generation. 
 
-In my free time i like to make mods for Minecraft, and play some other games aswell. I also like to occasionaly play with some simple web development. 
+In my free time I like to make mods for Minecraft, and play some other games as well. I also like to occasionaly play with some simple web development. 
 
 ### ⛏ Some of my Minecraft modding projects are:
  - [Kibe](https://github.com/lucaargolo/kibe) - A miscellaneous mod that adds a bunch of random qol utillities to the game.
