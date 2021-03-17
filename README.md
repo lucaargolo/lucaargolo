@@ -13,7 +13,7 @@ In my free time I like to make mods for Minecraft, and play some other games as 
 ### 🌎 Some of my web development projects are:
  - [Minha Grade](https://lucaargolo.github.io/minha-grade/) - A small website that generates an interactive curriculum based on a json file.
  - [Random Planet Generator](https://lucaargolo.github.io/random-planet-generator/) - A javascript random planet generator, made in only 2 hours.
- - [Histórico de Voos](https://github.com/lucaargolo/historico-de-voos) - A college assigned data science project with detailed flight info from 2015-2020 in Brazil.
+ - [Histórico de Voos](https://lucaargolo.github.io/historico-de-voos) - A college assigned data science project with detailed flight info from 2015-2020 in Brazil.
 
 ### 📫 How to reach me:
   - Email: lucaargolo@gmail.com
