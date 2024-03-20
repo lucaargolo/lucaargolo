@@ -1,7 +1,7 @@
 ### 👋 Hi there! Welcome to my GitHub profile/resume!
 My name is Luca Argolo and I'm currently a Computer Science student at [UFBA](https://ufba.br/).
 
-I'm 22 years old and my current interests are in game development, modding, and procedural generation. 
+I'm 23 years old and my current interests are in game development, modding, and procedural generation. 
 
 I work part-time as a freelancer doing Minecraft mods and in my free time, I like to make and publish my own mods. I also like to occasionally play with some simple web development. 
 
